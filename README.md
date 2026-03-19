@@ -66,7 +66,7 @@ lib/
 
 ## Demo Video
 
-[Watch the demo video](assets/videos/demo.mp4)
+[Watch the demo video](assets/video/screenrecordingtradeapp.mp4)
 
 ---
 
