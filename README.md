@@ -69,4 +69,4 @@ lib/
 
 ---
 
-If you need more info or want to see screenshots, let me know.
+ see screenshots
