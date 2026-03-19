@@ -71,8 +71,8 @@ lib/
 
 ## Screenshots
 
-![Watchlist Screen](assets/images/screenshot1.png)
+![Watchlist Screen](assets/images/watchlist_screenshort.jpeg)
 **Watchlist Screen**
 
-![Edit Watchlist Screen](assets/images/screenshot2.png)
+![Edit Watchlist Screen](assets/images/editwatchlist_screenshort.jpeg)
 **Edit Watchlist Screen**
