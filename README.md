@@ -64,12 +64,6 @@ lib/
 
 ---
 
-## Demo Video
-
-![Demo Video](assets/video/screenrecordingtradeapp.gif)
-
----
-
 ## Screenshots
 
 ![Watchlist Screen](assets/images/watchlist_screenshort.jpeg)  
