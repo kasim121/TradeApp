@@ -69,4 +69,10 @@ lib/
 
 ---
 
- see screenshots
+## Screenshots
+
+![Watchlist Screen](assets/images/screenshot1.png)
+*Watchlist Screen*
+
+![Edit Watchlist Screen](assets/images/screenshot2.png)
+*Edit Watchlist Screen**
