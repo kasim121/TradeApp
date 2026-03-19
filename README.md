@@ -66,7 +66,7 @@ lib/
 
 ## Demo Video
 
-[Watch the demo video](assets/video/screenrecordingtradeapp.mp4)
+![Demo Video](assets/video/screenrecordingtradeapp.gif)
 
 ---
 
